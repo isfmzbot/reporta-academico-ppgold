@@ -617,7 +617,7 @@ def validar_e_carregar_planilha(uploaded_file, nome_base):
 # ==========================================
 # 6. CONTROLE DE PÁGINAS E ESTÉTICA
 # ==========================================
-st.set_page_config(page_title="Relatórios CAPES - PPGOLD", layout="wide")
+st.set_page_config(page_title="Reporta Acadêmico - PPGOLD - UFPR", layout="wide")
 
 st.markdown("""
     <style>
